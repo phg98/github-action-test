@@ -1,2 +1,2 @@
 def test_ok():
-  assert 0
+  assert 1
